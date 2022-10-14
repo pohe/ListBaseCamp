@@ -39,7 +39,7 @@ foreach (int i in listOfInt)
     Console.WriteLine(i);
 }
 
-//listOfInt.ForEach(Console.WriteLine);
+
 
 //int y = 0;
 //while( y < listOfInt.Count )
